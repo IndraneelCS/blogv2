@@ -1,0 +1,41 @@
+
+
+
+	BLOG v2 Design:
+	
+	Main GOALS:
+	
+		1. Make the project as generic as possible. It should be easily re-usable by anyone who needs a similar blog of their own
+	
+		2. Provide creative freedom to the author. Blog should align text/photos/videos effortlessly
+		
+		3. Should be compatible to devices of all size
+		
+		3. Have a clean slate UI version as well as graphic filled version
+		
+		4. Authentication to be implemented for secure resources
+
+		
+		Backend:
+		
+			1. DB	-	Read and choose an appropriate No SQL DB. [Cassandra/Mongo e.t.c.]
+			
+			2. Server Cache - Redis
+			
+			3. Graal VM - Latest Java version to be used
+			
+			4. Choose between Microprofile and Quarkus
+			
+		Frontend:
+		
+			1. Explore and come up with an awesome design
+			
+			2. Angular latest version
+			
+		Build and Deployment:
+		
+			1. Use Gradle for packaging
+			
+			2. Docker for creating an image
+			
+			3. Kubernetes for managing

@@ -1,0 +1,52 @@
+
+
+	Blogv2 UI:
+	
+	
+		Design examples:
+		
+		
+			1. https://resources.sigstr.com/blog		-	Cards design
+			
+			2. https://www.invisionapp.com/inside-design	-	Awesome example.
+			
+			3. https://www.digitalmarketer.com/blog/	- Clean design.
+			
+			4. https://sproutsocial.com/insights/ 		- Single card design with white base. Clean and simple.
+			
+			5. https://www.helpscout.com/blog/			- Simple 3 card layout. Neat and clean.
+			
+			6. https://news.microsoft.com/stories/index.html	-  Colour combination looks good.
+			
+			7. https://pando.com/		-  Bloody simple design with only one blog entry listed in the home page. Colour scheme is good.
+			
+			8. https://pando.com/		-  Design heavy. Colour scheme is good.
+			
+			9. https://www.brit.co/		-  Simple design. Footer looks awesome. 
+			
+			10. https://www.innocentdrinks.co.uk/blog	- GREAT! Header, Footer, SideNav, Dividers, Archives, Logo...
+			
+			11. https://iso.500px.com/		- Simple.
+			
+			12. https://pixelgrade.com/themes/blogging/vasco/	- Design Heavy. Each entry has most of the details on the main page.
+			
+			13. 
+			
+			
+		Blog Ideas:
+		
+		
+			1. Having a section which lists Videos that I like and want others to see - Integrate with youtube. Animate how the video looks like in https://www.invisionapp.com/inside-design
+			
+			2. Have a list of songs that you would like others to listen to ?
+			
+			3. Popular blog post entries can be listed separately ?
+			
+			4. Mandatory "Accept Cookies" to be displayed once per session ?
+			
+			5. "Featured Article" - To occupy the main space of the blog ?
+			
+			6. Subscribe option to send alert mails when a new blog entry is made ?
+			
+			
+			

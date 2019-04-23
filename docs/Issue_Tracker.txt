@@ -1,0 +1,74 @@
+
+	Blog v2 Feature Tracker:
+	
+	
+	Milestones:
+	
+		E1.	Website URL should be available.		
+		
+		E2.	Homepage - User should freely navigate to the homepage of the Blog.
+		
+		E3.	Blog page - User should be able to navigate to a particular blog page and read the entry.
+		
+		E4.	Editor page - Author should be allowed to create/update a post. 
+		
+		E5.	Non Functional Requirements.
+		
+		E6.	Integrations with various applications.
+		
+
+
+
+	User Stories for Milestones:
+	
+		E1.	Website URL should be available.
+		
+			US 1:	Register a domain for the blog.
+			
+			US 2:	Prepare the domain for deployment.
+			
+		E2.	Homepage - User should freely navigate to the homepage of the Blog.
+		
+			US 3:	Upon reaching the homepage, User should see a banner to "Accept Cookies".
+			
+			US 4:	On the homepage, user should be able to see the Application Logo.
+			
+			US 5:	User should be able to view and use Application Header.
+			
+			US 6:	User should be able to see and click on list of all blog entries.
+			
+			US 7:	User should be able to view and use Application Footer.
+		
+		E3.	Blog page - User should be able to navigate to a particular blog page and read the entry.
+		
+			US 8:	User should be able to read the blog entry.
+			
+		E4.	Editor page - Author should be allowed to create/update a post.
+		
+			US 9:	Author should be provided with a editor to write the blog.
+			
+			US 10:	Author should be able to add multimedia [photos/videos] to the blog entry.
+			
+			US 11:	Author should be provided with editing options like "Add Header Text", "Insert a Quote" etc.
+			
+		E5.	Non Functional Requirements.
+		
+			US 12:	Setup Development environments.
+			
+			US 13:	Setup Redis server.
+			
+			US 14:	Setup DB server.
+			
+			US 15:	Setup Backend server.
+			
+			US 16:	Setup GIT.
+			
+			US 17:	Setup CI.
+			
+			US 18:	Setup Docker.
+			
+			US 19:	Setup Cloud.
+			
+		E6.	Integrations with various applications.
+		
+			US 20:	
