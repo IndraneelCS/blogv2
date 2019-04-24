@@ -46,7 +46,7 @@
 		
 		2. For frontend, Angular 7 will be used.
 		
-		3. Gradle will be the application packaging tool.
+		3. Maven will be the application packaging tool.
 		
 		4. Docker to be used for storing and shipping the application package.
 		
