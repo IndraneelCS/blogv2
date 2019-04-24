@@ -11,9 +11,9 @@
 		
 		3. Should be compatible to devices of all size
 		
-		3. Have a clean slate UI version as well as graphic filled version
+		4. Have a clean slate UI version as well as graphic filled version
 		
-		4. Authentication to be implemented for secure resources
+		5. Authentication to be implemented for secure resources
 
 		
 		Backend:
@@ -39,3 +39,27 @@
 			2. Docker for creating an image
 			
 			3. Kubernetes for managing
+			
+	Design Decisions:
+	
+		1. For Backend, Quarkus along with GraalVM with Java version 1.8 has been chosen.
+		
+		2. For frontend, Angular 7 will be used.
+		
+		3. Gradle will be the application packaging tool.
+		
+		4. Docker to be used for storing and shipping the application package.
+		
+		5. Github for version control.
+		
+		6. Travis CI for CI/CD.
+		
+		7. Freedcamp.com for tracking the changes - Agile. [ https://freedcamp.com/Sleeping8_k4K/BlogAPp_mjV/todos ]
+		
+		8. Server side cache will be through Redis or should we use Infispan ? :/
+		
+		9. Search functionality will be through Elasticsearch.
+		
+		10. RxJava will be used for Async programming.
+		
+		11. 
