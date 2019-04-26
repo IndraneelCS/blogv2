@@ -62,4 +62,7 @@
 		
 		10. RxJava will be used for Async programming.
 		
-		11. 
+		11. Cassandra has been chosen as DB and installed in AWS EC2 instance. 
+		
+		
+		

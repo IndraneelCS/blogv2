@@ -5,12 +5,14 @@ import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
-@Path("/C:/Program Files/Git/healthcheck")
+@Path("/")
 public class HealthCheckResource {
 
     @GET
+    @Path("/health")
     @Produces(MediaType.TEXT_PLAIN)
     public String hello() {
-        return "hello";
+        return "Application is up and running";
     }
+
 }
